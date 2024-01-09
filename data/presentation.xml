@@ -1,0 +1,2814 @@
+<?xml version="1.0"?>
+<presentation title="КонечномернаяОптимизация_пособие" width="960.0000000" height="1280.0000000" thmbWidth="44.0000000" thmbHeight="59.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2013" type="compound" hasExternalAudio="0" uid="{8DBB8292-AD80-4B19-93A4-C7A57B2D9E1E}">
+	<presenters>
+		<presenter name="Литовка Юрий Владимирович" title="профессор" email="polychem@list.ru" web="" phone="" photoAssetId="">
+			<bio/>
+			<company logoAssetId="imgAsset0" webSite="http://www.tstu.ru/" webSiteTarget="_blank"/>
+		</presenter>
+	</presenters>
+	<company logoAssetId="imgAsset1" webSite="http://www.tstu.ru/" webSiteTarget="_blank"/>
+	<references>
+		<reference type="attachment" title="Линейное программирование симплекс-методом.exe" url="attachments/Линейное программирование симплекс-методом.exe" target="_blank"/>
+		<reference type="attachment" title="Метод наискорейшего спука.exe" url="attachments/Метод наискорейшего спука.exe" target="_blank"/>
+		<reference type="attachment" title="Метод Пауэла.exe" url="attachments/Метод Пауэла.exe" target="_blank"/>
+		<reference type="attachment" title="Метод случайных направлений с обратным шагом.exe" url="attachments/Метод случайных направлений с обратным шагом.exe" target="_blank"/>
+		<reference type="attachment" title="Метод сопряженных градиентов.exe" url="attachments/Метод сопряженных градиентов.exe" target="_blank"/>
+		<reference type="attachment" title="Одномерная оптимизация.exe" url="attachments/Одномерная оптимизация.exe" target="_blank"/>
+		<reference type="attachment" title="Решение задачи математического программирования комбинированным методом.exe" url="attachments/Решение задачи математического программирования комбинированным методом.exe" target="_blank"/>
+		<reference type="attachment" title="Решение задачи с ограничениями-неравенствами методом штрафных функций.exe" url="attachments/Решение задачи с ограничениями-неравенствами методом штрафных функций.exe" target="_blank"/>
+		<reference type="attachment" title="Симплексный метод.exe" url="attachments/Симплексный метод.exe" target="_blank"/>
+	</references>
+	<soundAssets/>
+	<sharedAssetsLibrary src="assets.swf"/>
+	<graphicAssets>
+		<graphicAsset id="imgAsset0" src="logo1.swf" embedded="0"/>
+		<graphicAsset id="imgAsset1" src="logo.swf" embedded="0"/>
+		<graphicAsset id="imgAsset2" src="thmb1.swf" embedded="0"/>
+		<graphicAsset id="imgAsset3" src="thmb2.swf" embedded="0"/>
+		<graphicAsset id="imgAsset4" src="thmb3.swf" embedded="0"/>
+		<graphicAsset id="imgAsset5" src="thmb4.swf" embedded="0"/>
+		<graphicAsset id="imgAsset6" src="thmb5.swf" embedded="0"/>
+		<graphicAsset id="imgAsset7" src="thmb6.swf" embedded="0"/>
+		<graphicAsset id="imgAsset8" src="thmb7.swf" embedded="0"/>
+		<graphicAsset id="imgAsset9" src="thmb8.swf" embedded="0"/>
+		<graphicAsset id="imgAsset10" src="thmb9.swf" embedded="0"/>
+		<graphicAsset id="imgAsset11" src="thmb10.swf" embedded="0"/>
+		<graphicAsset id="imgAsset12" src="thmb11.swf" embedded="0"/>
+		<graphicAsset id="imgAsset13" src="thmb12.swf" embedded="0"/>
+		<graphicAsset id="imgAsset14" src="thmb13.swf" embedded="0"/>
+		<graphicAsset id="imgAsset15" src="thmb14.swf" embedded="0"/>
+		<graphicAsset id="imgAsset16" src="thmb15.swf" embedded="0"/>
+		<graphicAsset id="imgAsset17" src="thmb16.swf" embedded="0"/>
+		<graphicAsset id="imgAsset18" src="thmb17.swf" embedded="0"/>
+		<graphicAsset id="imgAsset19" src="thmb18.swf" embedded="0"/>
+		<graphicAsset id="imgAsset20" src="thmb19.swf" embedded="0"/>
+		<graphicAsset id="imgAsset21" src="thmb20.swf" embedded="0"/>
+		<graphicAsset id="imgAsset22" src="thmb21.swf" embedded="0"/>
+		<graphicAsset id="imgAsset23" src="thmb22.swf" embedded="0"/>
+		<graphicAsset id="imgAsset24" src="thmb23.swf" embedded="0"/>
+		<graphicAsset id="imgAsset25" src="thmb24.swf" embedded="0"/>
+		<graphicAsset id="imgAsset26" src="thmb25.swf" embedded="0"/>
+		<graphicAsset id="imgAsset27" src="thmb26.swf" embedded="0"/>
+		<graphicAsset id="imgAsset28" src="thmb27.swf" embedded="0"/>
+		<graphicAsset id="imgAsset29" src="thmb28.swf" embedded="0"/>
+		<graphicAsset id="imgAsset30" src="thmb29.swf" embedded="0"/>
+		<graphicAsset id="imgAsset31" src="thmb30.swf" embedded="0"/>
+		<graphicAsset id="imgAsset32" src="thmb31.swf" embedded="0"/>
+		<graphicAsset id="imgAsset33" src="thmb32.swf" embedded="0"/>
+		<graphicAsset id="imgAsset34" src="thmb33.swf" embedded="0"/>
+		<graphicAsset id="imgAsset35" src="thmb34.swf" embedded="0"/>
+		<graphicAsset id="imgAsset36" src="thmb35.swf" embedded="0"/>
+		<graphicAsset id="imgAsset37" src="thmb36.swf" embedded="0"/>
+		<graphicAsset id="imgAsset38" src="thmb37.swf" embedded="0"/>
+		<graphicAsset id="imgAsset39" src="thmb38.swf" embedded="0"/>
+		<graphicAsset id="imgAsset40" src="thmb39.swf" embedded="0"/>
+		<graphicAsset id="imgAsset41" src="thmb40.swf" embedded="0"/>
+		<graphicAsset id="imgAsset42" src="thmb41.swf" embedded="0"/>
+		<graphicAsset id="imgAsset43" src="thmb42.swf" embedded="0"/>
+		<graphicAsset id="imgAsset44" src="thmb43.swf" embedded="0"/>
+		<graphicAsset id="imgAsset45" src="thmb44.swf" embedded="0"/>
+		<graphicAsset id="imgAsset46" src="thmb45.swf" embedded="0"/>
+		<graphicAsset id="imgAsset47" src="thmb46.swf" embedded="0"/>
+		<graphicAsset id="imgAsset48" src="thmb47.swf" embedded="0"/>
+		<graphicAsset id="imgAsset49" src="thmb48.swf" embedded="0"/>
+		<graphicAsset id="imgAsset50" src="thmb49.swf" embedded="0"/>
+		<graphicAsset id="imgAsset51" src="thmb50.swf" embedded="0"/>
+		<graphicAsset id="imgAsset52" src="thmb51.swf" embedded="0"/>
+		<graphicAsset id="imgAsset53" src="thmb52.swf" embedded="0"/>
+		<graphicAsset id="imgAsset54" src="thmb53.swf" embedded="0"/>
+		<graphicAsset id="imgAsset55" src="thmb54.swf" embedded="0"/>
+		<graphicAsset id="imgAsset56" src="thmb55.swf" embedded="0"/>
+		<graphicAsset id="imgAsset57" src="thmb56.swf" embedded="0"/>
+		<graphicAsset id="imgAsset58" src="thmb57.swf" embedded="0"/>
+		<graphicAsset id="imgAsset59" src="thmb58.swf" embedded="0"/>
+		<graphicAsset id="imgAsset60" src="thmb59.swf" embedded="0"/>
+		<graphicAsset id="imgAsset61" src="thmb60.swf" embedded="0"/>
+		<graphicAsset id="imgAsset62" src="thmb61.swf" embedded="0"/>
+		<graphicAsset id="imgAsset63" src="thmb62.swf" embedded="0"/>
+		<graphicAsset id="imgAsset64" src="thmb63.swf" embedded="0"/>
+		<graphicAsset id="imgAsset65" src="thmb64.swf" embedded="0"/>
+		<graphicAsset id="imgAsset66" src="thmb65.swf" embedded="0"/>
+		<graphicAsset id="imgAsset67" src="thmb66.swf" embedded="0"/>
+		<graphicAsset id="imgAsset68" src="thmb67.swf" embedded="0"/>
+		<graphicAsset id="imgAsset69" src="thmb68.swf" embedded="0"/>
+		<graphicAsset id="imgAsset70" src="thmb69.swf" embedded="0"/>
+		<graphicAsset id="imgAsset71" src="thmb70.swf" embedded="0"/>
+		<graphicAsset id="imgAsset72" src="thmb71.swf" embedded="0"/>
+		<graphicAsset id="imgAsset73" src="thmb72.swf" embedded="0"/>
+		<graphicAsset id="imgAsset74" src="thmb73.swf" embedded="0"/>
+		<graphicAsset id="imgAsset75" src="thmb74.swf" embedded="0"/>
+		<graphicAsset id="imgAsset76" src="thmb75.swf" embedded="0"/>
+		<graphicAsset id="imgAsset77" src="thmb76.swf" embedded="0"/>
+		<graphicAsset id="imgAsset78" src="thmb77.swf" embedded="0"/>
+		<graphicAsset id="imgAsset79" src="thmb78.swf" embedded="0"/>
+		<graphicAsset id="imgAsset80" src="thmb79.swf" embedded="0"/>
+		<graphicAsset id="imgAsset81" src="thmb80.swf" embedded="0"/>
+		<graphicAsset id="imgAsset82" src="thmb81.swf" embedded="0"/>
+		<graphicAsset id="imgAsset83" src="thmb82.swf" embedded="0"/>
+		<graphicAsset id="imgAsset84" src="thmb83.swf" embedded="0"/>
+		<graphicAsset id="imgAsset85" src="thmb84.swf" embedded="0"/>
+		<graphicAsset id="imgAsset86" src="thmb85.swf" embedded="0"/>
+		<graphicAsset id="imgAsset87" src="thmb86.swf" embedded="0"/>
+	</graphicAssets>
+	<playlists/>
+	<narration/>
+	<settings>
+		<navigation>
+			<keyboard enabled="1">
+				<actions>
+					<action name="playPause">
+						<shortcut code="32" control="0" shift="0"/>
+					</action>
+					<action name="nextSlide">
+						<shortcut code="34" control="0" shift="0"/>
+					</action>
+					<action name="previousSlide">
+						<shortcut code="33" control="0" shift="0"/>
+					</action>
+					<action name="nextStep">
+						<shortcut code="13" control="0" shift="0"/>
+					</action>
+					<action name="previousStep">
+						<shortcut code="13" control="0" shift="1"/>
+					</action>
+					<action name="firstSlide">
+						<shortcut code="36" control="1" shift="0"/>
+					</action>
+					<action name="lastSlide">
+						<shortcut code="35" control="1" shift="0"/>
+					</action>
+					<action name="lastViewedSlide">
+						<shortcut code="8" control="0" shift="0"/>
+					</action>
+					<action name="slideStart">
+						<shortcut code="36" control="0" shift="0"/>
+					</action>
+					<action name="slideEnd">
+						<shortcut code="35" control="0" shift="0"/>
+					</action>
+					<action name="seekForward">
+						<shortcut code="39" control="0" shift="0"/>
+					</action>
+					<action name="seekBackward">
+						<shortcut code="37" control="0" shift="0"/>
+					</action>
+					<action name="volumeUp">
+						<shortcut code="38" control="0" shift="0"/>
+					</action>
+					<action name="volumeDown">
+						<shortcut code="40" control="0" shift="0"/>
+					</action>
+					<action name="toggleFullscreen">
+						<shortcut code="70" control="1" shift="0"/>
+					</action>
+				</actions>
+			</keyboard>
+			<mouse enabled="1" target="step"/>
+			<gesture zoom="1"/>
+		</navigation>
+		<skin>
+			<colorSettings>
+				<color id="button.content.normal">#000000</color>
+				<color id="button.content.over">#262626</color>
+				<color id="button.face.normal">#FFFFFF</color>
+				<color id="button.face.over">#FFFFFF</color>
+				<color id="companyLogo.background">#FFFFFF</color>
+				<color id="hyperlink">#097CE7</color>
+				<color id="listItem.face.over">#E8E8E8</color>
+				<color id="listItem.face.pressed">#6E6E6E</color>
+				<color id="listItem.label.over">#000000</color>
+				<color id="listItem.label.pressed">#FFFFFF</color>
+				<color id="listItem.label.visited">#A1A1A1</color>
+				<color id="page.background">#FFFFFF</color>
+				<color id="panel.background">#0A51A1</color>
+				<color id="panel.text">#FFFFFF</color>
+				<color id="player.background">#E6EDF7</color>
+				<color id="popup.background">#FFFFFF</color>
+				<color id="progress.background">#FFFFFF</color>
+				<color id="progress.loading">#87A8D8</color>
+				<color id="progress.playback">#0A51A1</color>
+				<color id="text">#4D4D4D</color>
+			</colorSettings>
+			<controlPanelSettings>
+				<visible>true</visible>
+				<showOutline>false</showOutline>
+				<showPlayPause>true</showPlayPause>
+				<showRewind>true</showRewind>
+				<showVolumeControl>true</showVolumeControl>
+				<showCCButton>false</showCCButton>
+				<showPrevButton>true</showPrevButton>
+				<showNextButton>true</showNextButton>
+				<showSlideOnlyButton>true</showSlideOnlyButton>
+				<progressBar>
+					<visible>true</visible>
+					<enabled>true</enabled>
+					<showLabels>true</showLabels>
+					<mode>slideTimeline</mode>
+				</progressBar>
+				<navigationMode>bySlides</navigationMode>
+			</controlPanelSettings>
+			<titlePanelSettings>
+				<showLogo>true</showLogo>
+				<visible>true</visible>
+				<buttons>
+					<button type="attachments" visible="true"/>
+					<button type="presenterInfo" visible="false"/>
+					<button type="markerTools" visible="true"/>
+					<button type="notes" visible="false"/>
+					<button type="outline" visible="false"/>
+				</buttons>
+			</titlePanelSettings>
+			<outlinePanelSettings>
+				<numberEntries>false</numberEntries>
+				<highlightViewedEntries>true</highlightViewedEntries>
+				<thumbnails>true</thumbnails>
+				<search>true</search>
+				<multilevel>true</multilevel>
+			</outlinePanelSettings>
+			<sidePanelSettings>
+				<showAtLeft>false</showAtLeft>
+				<showLogo>false</showLogo>
+				<showPresenterInfo>false</showPresenterInfo>
+				<showPresenterVideo>false</showPresenterVideo>
+				<visible>true</visible>
+				<tabsPanel>
+					<showOutline>true</showOutline>
+					<showNotes>false</showNotes>
+				</tabsPanel>
+			</sidePanelSettings>
+		</skin>
+		<appearance fullScreen="1" showSlidePreloader="1"/>
+		<playback autoStart="1" syncWithVideoNarration="1" enableVideoControl="1" resumePresentationPlayback="never"/>
+	</settings>
+	<slides embedded="0">
+		<slide index="0" title="Обложка" titleNormalized="обложка" src="slide1.swf" size="364737" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset2">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+		</slide>
+		<slide index="1" title="Титульный лист" titleNormalized="титульный лист" src="slide2.swf" size="137625" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="imgAsset3">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+		</slide>
+		<slide index="2" title="Титульный лист" titleNormalized="титульный лист" src="slide3.swf" size="333268" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="imgAsset4">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+		</slide>
+		<slide index="3" title="Цитата" titleNormalized="цитата" src="slide4.swf" size="34852" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="imgAsset5">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>
+В мире не происходит ничего, в чем бы не был
+ виден смысл какого-нибудь максимума
+или минимума. 
+ Леонард Эйлер*
+
+
+
+
+
+
+
+
+
+
+___________________
+*Леонард Эйлер (4 апреля 1707 − 7 сентября 1783) − швейцарский, немецкий и российский математик, внесший значительный вклад в развитие математики, а также механики, физики, астрономии и ряда прикладных наук.</text>
+		</slide>
+		<slide index="4" title="Проблема реальной жизни: поиск скрытой вершины холма" titleNormalized="проблема реальной жизни: поиск скрытой вершины холма" src="slide5.swf" size="143480" advanceOnTime="0" framesCount="241" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset6">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="240" playTime="10.0000000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Проблема реальной жизни: поиск скрытой вершины холма 
+Кевин найдет вершину холма! 
+Возможно, но 
+ему надо оставаться внутри стен забора.</text>
+		</slide>
+		<slide index="5" title="Проблема реальной жизни: поиск самой высокой вершины холма" titleNormalized="проблема реальной жизни: поиск самой высокой вершины холма" src="slide6.swf" size="1588705" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="imgAsset7">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Проблема реальной жизни: поиск самой высокой вершины холма</text>
+		</slide>
+		<slide index="6" title="Проблема реальной жизни: поиск самой высокой вершины холма" titleNormalized="проблема реальной жизни: поиск самой высокой вершины холма" src="slide7.swf" size="5351361" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="imgAsset8">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Проблема реальной жизни: поиск самой высокой вершины холма</text>
+		</slide>
+		<slide index="7" title="ВВЕДЕНИЕ" titleNormalized="введение" src="slide8.swf" size="8544" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset9">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>ВВЕДЕНИЕ 
+В наиболее общем смысле теория оптимизации представляет собой совокупность фундаментальных математических результатов и численных методов, ориентированных на нахождение и идентификацию наилучших вариантов из множества альтернатив и позволяющих избежать полного перебора и оценивания всех возможных вариантов. Процесс оптимизации лежит во всей инженерной деятельности. 
+Ценность и важность теории оптимизации заключается в том, что она дает адекватные понятийные рамки для решения и анализа многочисленных задач: численный анализ, автоматика, математическая экономика.
+Настоящее учебное пособие призвано помочь студентам в изучении ряда основных методов решения оптимизационных задач, а также преподавателям при проведении практических и индивидуальных занятий по курсу «Методы оптимизации». 
+В современной литературе описано большое число методов решения оптимизационных задач, все их изложить невозможно. Поэтому в пособие включены лишь некоторые из наиболее эффективных и наиболее важных с методологической точки зрения методов.
+</text>
+		</slide>
+		<slide index="8" title="1. КЛАССИФИКАЦИЯ ЗАДАЧ ОПТИМИЗАЦИИ" titleNormalized="1. классификация задач оптимизации" src="slide9.swf" size="9177" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset10">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Задача создания новых объектов на современном этапе заключается в получении не просто работоспособного объекта, но и оптимального с точки зрения некоторого критерия. При этом у конструктора должна быть определенная степень свободы, т.е. должны иметь место переменные, изменять которые в заданных пределах можно произвольно-варьируемые параметры. Вторым элементом для постановки задачи оптимизации является наличие целевой функции (критерия), по которому будут сравниваться различные варианты при разных значениях варьируемых параметров. 
+И, наконец, должна быть известна связь варьируемых параметров х1, х2,…, хn с критерием R: 
+R = f0(x1, x2,…, xn).
+На варьируемые параметры могут быть наложены ограничения в виде равенств и неравенств: 
+fi(x1, x2,…, xn)  0, i = 1, 2,…, p;
+fi(x1, x2,…, xn) = 0, i = p + 1, p + 2,…, m.
+
+1. КЛАССИФИКАЦИЯ ЗАДАЧ ОПТИМИЗАЦИИ</text>
+		</slide>
+		<slide index="9" title="" titleNormalized="" src="slide10.swf" size="9156" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="imgAsset11">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Классификация задач оптимизации:
+
+1. Конечномерные и вариационные задачи.
+В конечномерных задачах варьируемыми переменными являются числа, в вариационных – функции.
+Конечномерные задачи в зависимости от исходных данных могут решаться аналитическим методом либо численными, к которым относятся методы нелинейного, линейного, динамического и целочисленного программирования.
+Вариационные задачи могут быть решены аналитическим, численным либо прямыми методами.
+
+2. Задачи на условный и безусловный экстремум.
+Если в задаче отсутствуют какие-либо ограничения на варьируемые переменные, такая задача носит название задачи на безусловный экстремум. Если присутствуют ограничения в виде равенств или неравенств, получаем задачу на условный экстремум.
+</text>
+		</slide>
+		<slide index="10" title="2. КОНЕЧНОМЕРНЫЕ ЗАДАЧИ ОПТИМИЗАЦИИ" titleNormalized="2. конечномерные задачи оптимизации" src="slide11.swf" size="13331" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset12">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>2. КОНЕЧНОМЕРНЫЕ ЗАДАЧИ ОПТИМИЗАЦИИ
+Рассмотрим постановку задачи оптимизации. Найти такие значения варьируемых переменных (чисел) , при которых
+(1)
+при ограничениях
+fi (x1, x2,…, xn)  0, i = 1, 2,…, p; 	 	(2)
+fi (x1, x2,…, xn) = 0, i = p + 1, p + 2,…, m. 	 (3)
+
+В выражении (1) использована задача минимизации, которую и будем рассматривать в дальнейшем, поскольку задачу максимизации функции R всегда можно заменить задачей минимизации функции (–R).
+В постановке (1) – (3) рассмотрен наиболее общий случай – так называемая задача условной оптимизации. При отсутствии ограничений (2), (3) задача упрощается и носит название задачи безусловной оптимизации.
+</text>
+		</slide>
+		<slide index="11" title="2.1. Определения и понятия, необходимые для решения задачи оптимизации" titleNormalized="2.1. определения и понятия, необходимые для решения задачи оптимизации" src="slide12.swf" size="22747" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="imgAsset13">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>2.1. Определения и понятия, необходимые для решения задачи оптимизации
+Нормализация независимых переменных (варьируемых параметров). Поскольку при решении конкретных задач независимые переменные могут иметь самый различный физический смысл (например, давление, температура и т.д.) и, соответственно, разные единицы измерения и диапазон изменения, целесообразно оперировать с их безразмерными нормализованными значениями. Пусть варьируемая переменная х1 может изменять свое значение в пределах (х1min, х1max). Тогда можно ввести безразмерную переменную
+
+
+
+которая будет изменяться в пределах (0, 1).
+Геометрическая интерпретация целевой функции и ограничений. Иллюстрировать геометрически целевую функцию и ограничения возможно для функций одной либо двух переменных. Для функции одной переменной это обычный график (рис. 1). 
+
+
+
+
+
+
+
+
+
+
+
+Рис. 1. График функции одной переменной</text>
+		</slide>
+		<slide index="12" title="" titleNormalized="" src="slide13.swf" size="107996" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="imgAsset14">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Для функции двух переменных возможны варианты.
+1. Изображение целевой функции в изометрии (рис. 2). Этот способ не всегда бывает наглядным.
+2. Изображение целевой функции в виде линий уровня на плоскости. Проведем плоскость, параллельную плоскости х1х2, для некоторого значения Ri. Тогда замкнутая линия пересечения плоскости с функцией R(х1, х2) в любой точке будет иметь значение Ri. Таких замкнутых линий, называемых линиями равного уровня и отвечающих различным значениям Ri, можно провести сколько угодно, причем каждая из этих линий будет целиком охватывать любую линию, для которой функции R меньше (рис. 3).
+
+
+
+
+
+
+
+
+
+Рис. 2. Изометрическое представление функции двух переменных
+
+
+
+
+
+
+
+
+
+Рис. 3. Линии равного уровня целевой функции
+</text>
+		</slide>
+		<slide index="13" title="" titleNormalized="" src="slide14.swf" size="139634" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="2" advanceOnClick="1" thumbnailAssetId="imgAsset15">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Ограничения (2) типа неравенств наглядно представляются на графике изображения линий уровня целевой функции (рис. 4).
+
+
+
+
+
+
+
+Рис. 4. Изображение ограничений типа неравенств
+
+Особенности целевой функции. В настоящее время для решения задач нелинейного программирования разработано и применяется значительное число методов. Это связано с тем, что каждая конкретная задача оптимизации обладает присущими только ей особенностями, позволяющими с наибольшим успехом применять тот или иной метод решения. 
+Рассмотрим некоторые, особенности целевой функции. 
+1. Наличие локальных экстремумов (рис. 5).
+
+
+
+
+
+
+
+Рис. 5. Многоэкстремальная функция</text>
+		</slide>
+		<slide index="14" title="" titleNormalized="" src="slide15.swf" size="166156" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="2" advanceOnClick="1" thumbnailAssetId="imgAsset16">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>2. Наличие «оврагов» (рис. 6).
+
+
+
+
+
+
+
+Рис. 6. Целевая функция с «оврагом»
+
+«Овраг» − особенность целевой функции, при которой вдоль определенных направлений величина данной функции изменяется очень слабо, а вдоль других − сильно. 
+Пример сильно «овражной» функции − функция Розенброка:
+
+
+3. Наличие седловой точки. Седловая точка – такая точка, в которой целевая функция по одному направлению имеет минимум, а по другому – максимум (точка на рис. 7).
+
+
+
+
+
+
+
+
+
+Рис. 7. Седловая точка</text>
+		</slide>
+		<slide index="15" title="2.2. Методы локализации экстремума функции одной переменной" titleNormalized="2.2. методы локализации экстремума функции одной переменной" src="slide16.swf" size="16153" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="imgAsset17">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>2.2. Методы локализации экстремума функции одной переменной
+Постановка задачи: найти число х* на интервале [а, b], при котором f0(x)→min.
+Для решения поставленной задачи могут использоваться следующие методы.
+
+2.2.1. Аналитический метод 
+
+Применяется при несложной зависимости f0(x) и заключается в использовании необходимого и достаточного условий экстремума функции одной переменной.
+Необходимое условие:
+(4)
+
+Если необходимое условие выполняется, то такое значение х* лишь претендент на экстремальную точку; в этой точке экстремума может и не быть (рис. 8, 9). Для того, чтобы в точке х* был экстремум, должно быть проверено достаточное условие (анализ второй производной). 
+Если , то наблюдается экстремум – минимум функции.
+Если , то наблюдается экстремум – максимум функции. 
+Если , то надо исследовать производные более высокого порядка.
+Недостатком аналитического метода является невозможность решения уравнения (4) аналитически при сложной форме функции f0(x).
+</text>
+		</slide>
+		<slide index="16" title="" titleNormalized="" src="slide17.swf" size="32806" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="2" advanceOnClick="1" thumbnailAssetId="imgAsset18">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>
+
+
+
+
+
+
+
+
+
+Рис. 8. Экстремум при выполнении необходимого условия
+
+
+
+
+
+
+
+
+
+
+
+
+Рис. 9. Отсутствие экстремума при выполнении необходимого условия
+</text>
+		</slide>
+		<slide index="17" title="" titleNormalized="" src="slide18.swf" size="22415" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="2" advanceOnClick="1" thumbnailAssetId="imgAsset19">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>2.2.2. Численные методы
+
+Для решения данной задачи могут использоваться следующие численные методы.
+a) Метод сканирования (перебора). Весь интервал [а, b] разбивается на N равных частей (рис. 10). 
+Во всех точках, включая а и b, вычисляются значения функции f0(х).
+Среди полученных значений f0(хi), i = 1, 2,…, N+1 находится наименьшее. Результат работы метода – значение х*, при котором f0(х*) min. 
+Для большей точности возможно деление шага в окрестностях минимума. Преимущество метода – он находит глобальный экстремум. Недостаток – большое количество вычислений.
+
+
+
+
+
+
+
+
+
+
+Рис. 10. Метод перебора
+
+б) Метод половинного деления. Отрезок [а, b] делится на четыре равные части (рис. 11).</text>
+		</slide>
+		<slide index="18" title="" titleNormalized="" src="slide19.swf" size="53382" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="2" advanceOnClick="1" thumbnailAssetId="imgAsset20">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Вычисляются значения f0(a), f0(x1), f0(x2), f0(x3), f0(b), которые сравниваются между собой и находится минимальное значение. Далее выбирается новый интервал, включающий два подынтервала с наименьшим вычисленным значением f0(x) на их общей границе. Например, [х2, b]. Тем самым искомый минимум локализован в интервале, размеры которого в 2 раза меньше исходного. 
+Применяя к новому интервалу тот же прием, можно еще более сузить интервал, где находится минимум. При этом для каждого нового разбиения нужно вычислять значения целевой функции только в двух новых точках, так как ее значения на концах нового интервала и в его середине известны из предыдущих расчетов.
+Алгоритм повторяется до тех пор, пока для очередного отрезка не будет выполнено условие bi−аi  ε, где ε – заранее заданная точность вычислений.
+
+
+
+
+
+
+
+
+
+
+
+
+Рис. 11. Метод половинного деления
+
+в) Метод «золотого» сечения. По сравнению с методом половинного деления, лучшие результаты могут быть получены, если деление отрезка [a, b], на котором отыскивается минимум, производить в определенном иррациональном отношении (рис. 12).</text>
+		</slide>
+		<slide index="19" title="" titleNormalized="" src="slide20.swf" size="44538" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="2" advanceOnClick="1" thumbnailAssetId="imgAsset21">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>
+
+
+
+
+
+Рис. 12. Метод «золотого» сечения
+
+Определим отношение длины одинаковых отрезков [a, x1] и [x2, b] к длине отрезка [a, b] из условия того, чтобы на всех итерациях отрезок локализации разбивался бы в одном и том же отношении, и при этом, начиная со второй итерации, на каждой итерации вычислялась бы только одна новая точка, а вторая использовалась бы от предыдущей итерации. Эти условия будут выполнены тогда, когда выполняется соотношение 
+(5)
+
+Обозначим
+s = b−a,					(6)
+s1 = b−x2 = x1−a,				(7)
+	(8)
+
+Подставим (6), (7) в (5): 
+ 
+
+или, с учетом (8):
+		y2−3y+1 = 0. 				(9)</text>
+		</slide>
+		<slide index="20" title="" titleNormalized="" src="slide21.swf" size="16148" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="2" advanceOnClick="1" thumbnailAssetId="imgAsset22">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Отношение S1, естественно, должно быть меньше 1, поэтому решением уравнения (9) будет
+
+
+Полученное значение носит название «золотого» сечения.
+Алгоритм заключается в следующем. Вычисляются значения f0(a), f0(x1), f0(x2), f0(b), которые сравниваются между собой и находится минимальное значение. Далее выбирается новый интервал, включающий два подынтервала с наименьшим вычисленным значением f0(x) на их общей границе. Например, таким интервалом является [х1, b]. Тем самым искомый минимум локализован в интервале, размеры которого на 38% меньше исходного. Новый интервал состоит из двух подынтервалов неравной длины. Внутри большего подынтервала ищем точку х3 из условия.
+
+В точке х3 вычисляется значение целевой функции, после чего процедура повторяется до тех пор, пока размер очередного отрезка локализации не станет меньше заранее заданной точности ε. 
+Таким образом, на каждом шаге вычисляется одно значение целевой функции, а не два, как в методе половинного деления. 
+
+г) Метод поиска с использованием чисел Фибоначчи. Последовательность чисел Фибоначчи задается рекуррентной формулой
+Fk=Fk-1+Fk-2,
+F0=F1=1.
+Таким образом, получается последовательность чисел: 1, 1, 2, 3, 5, 8, 13, 21,…
+Доказано, что если требуется найти положение экстремума функции f0(х) на отрезке [a, b] с абсолютной ошибкой, не превышающей .
+</text>
+		</slide>
+		<slide index="21" title="" titleNormalized="" src="slide22.swf" size="17771" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="2" advanceOnClick="1" thumbnailAssetId="imgAsset23">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>
+
+где Fs − s-е число Фибоначчи, то для отыскания положения экстремума достаточно вычислить не более S значений функции f0(х). Так, например, при выполнении s = 7 расчетов, точность определения экстремума составит
+
+
+
+Алгоритм поиска: по заданной точности , с которой необходимо найти положение экстремума функции f0(х) на отрезке [a, b], рассчитывается вспомогательное число N
+
+
+Находится такое число Фибоначчи Fs, чтобы выполнялось неравенство: 
+Fs-1 N  Fs.
+Определяется шаг поиска по формуле:
+
+
+
+Рассчитывается значение f0(a).
+Рассчитывается х1=а+h·Fs-2 и f0(х1).
+Если f0(x1)  f0(a), то х2=х1+h·Fs-3.
+Если f0(x1)  f0(a), то х2=х1-h·Fs-3.
+Последующие шаги выполняются с уменьшающейся величиной шага, так как на каждом последующем шаге будет использоваться меньшее число Фибоначчи (для i-го шага Fs-i-2).
+На i-том шаге правило следующее.</text>
+		</slide>
+		<slide index="22" title="" titleNormalized="" src="slide23.swf" size="34959" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="2" advanceOnClick="1" thumbnailAssetId="imgAsset24">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Вычисляем xi+1 = xi + h·Fs-i-2.
+Если f0(xi+1)  f0(xi), то xi+2 = xi+1 + h·Fs-i+1.
+Если f0(xi+1)  f0(xi), то xi+2 = xi − h·Fs-i+1.
+Указанный процесс продолжается до тех пор, пока не будут исчерпаны все числа Фибоначчи в убывающей последовательности до F1=1 (рис. 13).
+
+
+
+
+
+
+
+
+
+
+Рис. 13. Поиск экстремума с использованием чисел Фибоначчи
+</text>
+		</slide>
+		<slide index="23" title="3. МЕТОДЫ ПОИСКА ЭКСТРЕМУМАФУНКЦИИ МНОГИХ ПЕРЕМЕННЫХ" titleNormalized="3. методы поиска экстремумафункции многих переменных" src="slide24.swf" size="31886" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset25">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>3. МЕТОДЫ ПОИСКА ЭКСТРЕМУМА ФУНКЦИИ МНОГИХ ПЕРЕМЕННЫХ
+3.1. Аналитический метод
+
+Для случая, когда аналитический вид соотношений (1) - (3) известен, не слишком сложен и число варьируемых переменных n невелико, можно использовать для решения задачи оптимизации аналитический метод (необходимое и достаточное условия экстремума). Рассмотрим аналитический метод для функции двух переменных.
+Постановка задачи: найти , при которых f0(x1, x2)→min.
+
+Необходимое условие: и
+Достаточное условие:
+
+
+
+
+при этом, если − максимум; если − минимум.
+Как правило, в большинстве практических случаев зависимость (1) не может быть записана в явном виде. Наличие ограничений (2), (3), которые могут быть заданы как трудно вычислимые функции от х1,…хn, еще более затрудняет отыскание оптимального решения. 
+Задачи такого типа являются предметом рассмотрения специального раздела математики – нелинейного программирования.</text>
+		</slide>
+		<slide index="24" title="3.2. Численные методы нелинейного программирования" titleNormalized="3.2. численные методы нелинейного программирования" src="slide25.swf" size="2061643" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="imgAsset26">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>3.2. Численные методы нелинейного программирования
+3.2.1. Методы нулевого порядка
+К методам нулевого порядка относятся методы, не использующие вычисления градиента (первых производных).
+а) Метод сканирования. Метод сканирования заключается в последовательном вычислении целевой функции в ряде точек, принадлежащих области изменения варьируемых переменных, и нахождении среди них такой, в которой целевая функция минимальна (рис. 14).
+Достоинства метода: независимость поиска от вида целевой функции (глобальный минимум будет найден и при наличии оврагов, и локальных минимумов); независимость от видов ограничений.
+К недостаткам метода относится необходимость вычисления значений целевой функции для большого числа точек. Однако при современном развитии вычислительной техники этот недостаток не существенен. Еще один недостаток – метод не работает для незамкнутой области определения варьируемых переменных. 
+
+
+
+
+
+
+
+
+
+
+
+Рис. 14. Точки, в которых вычисляется целевая функция в методе сканирования
+</text>
+		</slide>
+		<slide index="25" title="" titleNormalized="" src="slide26.swf" size="336635" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="2" advanceOnClick="1" thumbnailAssetId="imgAsset27">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>б) Метод покоординатного спуска (поочередного измерения переменных, Гауcса-Зейделя).
+В этом методе поочередно изменяются все независимые варьируемые переменные так, чтобы по каждой из них достигалось наименьшее значение целевой функции. Очередность варьирования независимых переменных при этом устанавливается произвольно и обычно не меняется в процессе поиска.
+Каждая уточняемая переменная варьируется до тех пор, пока в данном осевом направлении не будет найден минимум, после чего начинается процесс шагового поиска по следующему осевому направлению. Стратегия поиска минимума по каждой переменной может быть любая, например, использоваться один из методов одномерной оптимизации (половинного деления, «золотого» сечения, чисел Фибоначчи).
+Иллюстрация метода для функции двух переменных на рис. 15.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Рис. 15. Метод покоординатного спуска
+
+
+
+
+
+
+</text>
+		</slide>
+		<slide index="26" title="" titleNormalized="" src="slide27.swf" size="12928" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="3" advanceOnClick="1" thumbnailAssetId="imgAsset28">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Завершение работы алгоритма возможно по следующим признакам: 	
+− при отсутствии деления шага: ни в одном из осевых направлений нет уменьшения целевой функции;
+− при использовании деления шага: 
+
+
+
+где ε − заранее заданная точность.
+Распространенная ошибка при программировании данного метода: после того, как пройдена первый раз процедура варьирования поочередно всех независимых переменных, поиск заканчивают.
+Преимущество метода – простота реализации; отсутствие необходимости вычисления производных целевой функции.
+
+в) Метод Хука и Дживса (рис. 16) является модификацией метода покоординатного спуска. 
+Используется в случаях отсутствия ограничений на х1, х2.
+По координате х1 делается шаг из точки в положительном и отрицательном направлении и фиксируется направление убывания функции. Далее аналогично по координате х2. После этого одновременно изменяются х1 и х2 в зафиксированных направлениях убывания целевой функции. Так продолжается до тех пор, пока функция не начинает возрастать. Тогда процедура повторяется.
+Возможна модификация метода с делением шага.
+</text>
+		</slide>
+		<slide index="27" title="" titleNormalized="" src="slide28.swf" size="603291" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="3" advanceOnClick="1" thumbnailAssetId="imgAsset29">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>
+
+
+
+
+
+
+
+
+
+
+
+Рис. 16. Метод Хука и Дживса
+
+г) Метод Пауэлла является модификацией метода покоординатного спуска.
+Из точки начального приближения осуществляется поиск минимума по направлению х1, при этом и не меняется (рис. 17). Найденная точка .
+Далее ищется минимум по координате х2, при этом х1=const. Далее делаются шаги в точки х2, х3 по направлению х0х1 до тех пор, пока функция не начнет увеличиваться, после чего процедура повторяется.
+
+</text>
+		</slide>
+		<slide index="28" title="" titleNormalized="" src="slide29.swf" size="145542" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="3" advanceOnClick="1" thumbnailAssetId="imgAsset30">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Рис. 17. Метод Пауэлла
+
+д) Симплексный метод. Метод основан на том, что по известным значениям целевой функции в вершинах выпуклого многогранника, называемого симплексом, находится направление, в котором следует сделать следующий шаг, чтобы получить наибольшее уменьшение целевой функции. При этом под симплексом в n-мерном пространстве понимается многогранник, имеющий n+1 вершину, каждая из которых определяется пересечением n гиперплоскостей данного пространства.
+Примером симплекса на плоскости является треугольник. В трехмерном пространстве симплексом будет четырехгранная пирамида (рис. 18).
+</text>
+		</slide>
+		<slide index="29" title="" titleNormalized="" src="slide30.swf" size="29792" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="3" advanceOnClick="1" thumbnailAssetId="imgAsset31">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>
+
+
+
+
+
+
+
+
+
+а)				 б)
+Рис. 18. Пример симплекса: а − на плоскости; б − в трехмерном пространстве
+
+Рассмотрим наглядную иллюстрацию алгоритма симплексного метода на примере задачи отыскания наименьшего значения целевой функции двух независимых переменных с линиями постоянного уровня, изображенными на рис. 19.
+Прежде всего производится расчет значений целевой функции в трех точках S10, S20 и S30, соответствующих вершинам симплекса (треугольника). Из найденных значений целевой функции выбирается наибольшее. В представленном на рис. 19 случае наибольшее значение целевой функции получается в точке S10.
+В новой вершине S11 вычисляется значение целевой функции, которое сравнивается с известными значениями для других вершин нового симплекса (S20 и S30), и снова находится вершина S30 с наибольшим значением целевой функции, подлежащая исключению при построении следующего симплекса S11S20S31, и т.д.</text>
+		</slide>
+		<slide index="30" title="" titleNormalized="" src="slide31.swf" size="954795" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="3" advanceOnClick="1" thumbnailAssetId="imgAsset32">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Рис. 19. Симплексный метод
+ 
+В результате применения рассмотренной процедуры исключения вершин симплексов с наибольшим значением целевой функции, процесс сходится к минимальному значению. На рис. 19 видно, что вблизи от оптимума может возникнуть зацикливание, которое для рассматриваемого случая двух переменных сводится к тому, что вновь полученная вершина S26 последнего симплекса S14S26S34 исключается и образуется предыдущий симплекс S14S25S34. Для того чтобы устранить зацикливание, достаточно изменить размеры симплекса в сторону его уменьшения.</text>
+		</slide>
+		<slide index="31" title="3.2.2. Методы первого порядка" titleNormalized="3.2.2. методы первого порядка" src="slide32.swf" size="11580" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="2" advanceOnClick="1" thumbnailAssetId="imgAsset33">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Наиболее просто это можно сделать, если вдоль прямой S25BS26 от точки В отложить отрезок, равный половине отрезка S25B, в результате чего во вновь полученном деформированном симплексе S14S’26S34 исключению уже будет подлежать вершина S14. Если зацикливание возникнет снова, размеры симплекса опять уменьшатся, пока не будет достигнута требуемая точность определения оптимума.
+Критерием окончания поиска могут служить размеры симплекса. Поиск можно прекратить, например, если все ребра симплекса станут меньше заданной достаточно малой величины. 
+Таким образом, алгоритм симплексного метода допускает автоматическое изменение величины шага, при использовании которого вдали от оптимума возможно применение симплексов большого размера, что обеспечивает более быстрый спуск. 
+
+3.2.2. Методы первого порядка
+
+а) Градиентные методы. В основу градиентных методов поиска оптимума положены вычисление и анализ производных целевой функции f0(x). Поэтому, прежде чем перейти к описанию различных методов, необходимо рассмотреть вопрос о расчете производных f0/xj.
+Если аналитический вид целевой функции известен, вычисление производных f0/xj (j = 1, 2,… ,n) чаще всего не составляет особого труда, хотя иногда и может привести к довольно громоздким выражениям. Если же зависимость f0(x) в явном аналитическом виде нельзя записать или же вид этой зависимости настолько сложен, что аналитические выражения для производных f0/xj получаются слишком сложными для практического использования в расчетах, то единственным способом определения производных f0/xj является численный метод. Значение производной f0/xj при этом вычисляется по приближенному соотношению:</text>
+		</slide>
+		<slide index="32" title="" titleNormalized="" src="slide33.swf" size="19734" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="3" advanceOnClick="1" thumbnailAssetId="imgAsset34">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>
+(10)
+
+где xj – величина приращения независимой переменной xj, от которого существенно может зависеть точность определения значения производной.
+Формула (10) дает лишь приближенное к истинному значение производной f0/xj. Точность этого приближения зависит от приращения независимой переменной xj. Однако априорных способов предсказания наилучшего значения xj не существует. Можно лишь заметить, что допустимое указанное приращение, с одной стороны, ограничено по максимуму кривизной целевой функции в исследуемой точке (которая заранее неизвестна!), а с другой – по минимуму используемой точностью вычисления значений целевой функции (которая тоже заранее неизвестна и может существенно отличаться от точности задания значений xj в процессе расчета). 
+Практически для определения приемлемого значения xj (в особенности в начале поиска, когда производные еще ни разу не находились) используется метод дробления xj. Например, вычисляется значение производной с приращением, равным xj, и расчет повторяется с xj/2. Если полученные значения производных различаются существенно, расчет повторяется с xj/4 и т.д., пока не будет найдено оптимальное значение приращения xj. Разумеется, что на последующих шагах это значение может уточняться.
+
+б) Метод градиента. Поиск оптимума при использовании метода градиента производится в два этапа. На первом находятся значения частных производных по всем независимым переменным, которые определяют направление градиента в рассматриваемой точке. На втором этапе осуществляется шаг в направлении, обратном направлению градиента, т.е. в направлении наибыстрейшего убывания целевой функции. При выполнении шага одновременно изменяются значения всех независимых переменных. Каждая из них получает приращение, пропорциональное соответствующей составляющей градиента по данной оси.</text>
+		</slide>
+		<slide index="33" title="" titleNormalized="" src="slide34.swf" size="23938" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="3" advanceOnClick="1" thumbnailAssetId="imgAsset35">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Алгоритм градиентного метода может быть записан следующим образом
+
+
+В этом случае величина шага
+
+
+
+при постоянном значении параметра h(0) изменяется автоматически в соответствии с изменением абсолютной величины градиента.
+Момент окончания поиска определяется по выполнению некоторых предварительно заданных условий. Один из возможных вариантов окончания поиска для случая, когда оптимум находится внутри области Х, заключается в проверке на каждом шаге соотношения:
+
+
+Недостатком градиентного поиска является то, что при его использовании можно обнаружить только локальный минимум целевой функции. Для того, чтобы найти у функции другие локальные минимумы, необходимо производить поиск из других начальных точек. Таким образом, с помощью метода градиента каждый локальный минимум целевой функции можно охарактеризовать некоторой областью «притяжения», обладающей тем свойством, что при задании начального состояния в границах этой области метод градиента всегда приводит в один и тот же локальный минимум.
+
+в) Метод наискорейшего спуска. При применении метода градиента на каждом шаге нужно определять значения всех частных производных оптимизируемой функции по всем независимым переменным.
+</text>
+		</slide>
+		<slide index="34" title="3.2.3. Методы второго порядка" titleNormalized="3.2.3. методы второго порядка" src="slide35.swf" size="19349" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="2" advanceOnClick="1" thumbnailAssetId="imgAsset36">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Меньшее количество вычислений дает метод наискорейшего спуска, который заключается в следующем. После того как в начальной точке найден градиент оптимизируемой функции и тем самым определено направление ее наибыстрейшего убывания в указанной точке, в данном направлении делается шаг спуска. Если значение функции в результате этого шага уменьшилось, производится очередной шаг в том же направлении, и так до тех пор, пока в этом направлении не будет найден минимум, после чего вычисляется градиент и определяется новое направление наибыстрейшего убывания целевой функции.
+
+3.2.3. Методы второго порядка
+
+Метод «тяжелого шарика». Метод «тяжелого шарика» используется в задачах с целевыми функциями, имеющими несколько локальных экстремумов, и в этом смысле может быть охарактеризован как метод поиска глобального экстремума.
+В данном методе используется вторая производная целевой функции. Новое значение варьируемых переменных определяется по формуле
+(11)
+
+Воспользовавшись конечно-разностными выражениями для производных, нетрудно записать также и дискретный аналог этого алгоритма. Наличие коэффициента ρ в уравнении (11) обеспечивает определенную инерционность процессу поиска оптимума, которая проявляется в том, что при применении этого алгоритма появляется возможность «проскакивать» небольшие локальные минимумы целевой функции. Задаваясь различными значениями параметров ρ и h(0), можно так «отрегулировать» процесс поиска, что в результате его находится глобальный минимум целевой функции. 
+</text>
+		</slide>
+		<slide index="35" title="3.2.4. Метод «оврагов»" titleNormalized="3.2.4. метод «оврагов»" src="slide36.swf" size="1007691" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="2" advanceOnClick="1" thumbnailAssetId="imgAsset37">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>3.2.4. Метод «оврагов»
+
+При наличии «оврагов» работа рассмотренных выше методов затрудняется. При этом возможны два варианта негативного результата: останов метода на дне оврага задолго до точки экстремума (при делении шага) и «рысканье» при отсутствии деления шага (рис. 20).
+При этом при движении к экстремуму производится большое количество вычислений.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Рис. 20. «Рысканье» метода градиента в «овраге» целевой функции
+
+Для поиска экстремума «овражной» функции разработан специальный метод, который заключается в следующем. 
+Из точки начального приближения х0 (рис. 21) любым методом осуществляется спуск на дно оврага (находится точка х01). Из второй точки начального приближения х1 снова осуществляется спуск на дно оврага и находится точка х11. 
+
+</text>
+		</slide>
+		<slide index="36" title="3.2.5. Методы случайного поиска" titleNormalized="3.2.5. методы случайного поиска" src="slide37.swf" size="912049" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="2" advanceOnClick="1" thumbnailAssetId="imgAsset38">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>
+
+
+
+
+
+
+
+
+
+
+Рис. 21. Метод «оврагов»
+Выявляется, какая из точек х01или х11 меньше, после чего делается большой «овражный» шаг в направлении убывания целевой функции (в примере рис. 21 в направлении х01х11). Из найденной точки х2 осуществляется очередной спуск на дно «оврага» и т.д.
+3.2.5. Методы случайного поиска
+Основная идея методов случайного поиска заключается в том, чтобы перебором случайных совокупностей значений независимых переменных найти оптимум целевой функции или направление движения к нему.
+Общим для всех методов случайного поиска является применение случайных чисел в процессе поиска. Существует большое разнообразие методов и реализующих их программ для получения случайных чисел. Кроме того, практически во всех современных языках программирования высокого уровня имеются встроенные генераторы случайных чисел (функции RND, RANDOMIZ, и т.д.). В результате получается последовательность случайных чисел, лежащих в диапазоне [0, 1].</text>
+		</slide>
+		<slide index="37" title="" titleNormalized="" src="slide38.swf" size="24271" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="3" advanceOnClick="1" thumbnailAssetId="imgAsset39">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>а) Метод слепого поиска. В данном методе, прежде всего, необходимо нормировать исходную допустимую область изменения варьируемых переменных (рис. 22).
+
+
+
+
+
+
+
+
+
+Рис. 22. Нормирование области изменения
+
+
+
+
+
+
+В нормированной области все независимые переменные лежат в диапазоне [0, 1]. 
+Далее случайным образом выбирается точка, в которой вычисляется значение целевой функции. Далее аналогично выбирается другая точка, где также рассчитывается значение функции цели, с которым сравнивается полученное ранее.
+Если новое значение функции оказывается меньше, то это значение запоминается вместе с координатной точки, для которой оно было вычислено.
+Далее алгоритм работает аналогично.
+
+
+
+
+</text>
+		</slide>
+		<slide index="38" title="" titleNormalized="" src="slide39.swf" size="13499" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="3" advanceOnClick="1" thumbnailAssetId="imgAsset40">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Останов метода возможен несколькими способами:
+− n расчетов не дает улучшение целевой функции (n задается заранее);
+− заранее задается количество случайных точек n, в которых будут сравниваться значения функции цели.
+С увеличением n точность определения экстремума увеличивается.
+ 
+б) Метод случайных направлений. Вычисляется значение целевой функции в точке начального приближения х. Генератором получают n случайных чисел ri, i = 1, 2,…,n для всех n независимых переменных (для двухмерного случая – 2). Случайные числа центрируются: ri = ri − 0,5. После этого случайные числа лежат в диапазоне [−0,5; 0,5]. 
+Делается шаг в полученном случайном направлении:
+
+
+где hi − шаг по i-му направлению; ri− i-е случайное число.
+Вычисляется значение целевой функции в точке х1. Если новое значение меньше предыдущего, шаг считается удачным и запоминаются значения х1 и f0(х1), после чего делается шаг в новом случайном направлении.
+Если же случайный шаг оказался неудачным, то генерируются новые случайные числа и делается новый случайный шаг из точки х0.
+Поиск заканчивается, если после выполнения серии из n шагов меньшего значения функции цели найти не удается (рис. 23).
+Иногда используют процедуру деления шага. В этом случае после серии из n неудачных шагов поиск не заканчивают, а уменьшают величину шага. Критерием окончания поиска служит минимальный размер шага.
+
+
+</text>
+		</slide>
+		<slide index="39" title="" titleNormalized="" src="slide40.swf" size="1313798" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="3" advanceOnClick="1" thumbnailAssetId="imgAsset41">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Рис. 23. Метод случайных направлений
+
+в) Метод случайных направлений с обратным шагом. Отличительной особенностью по сравнению с методом случайных направлений является то, что при неудачном шаге из точки х0 в точку х1 сразу производится шаг в обратном направлении:
+
+
+При достаточном удалении от оптимума такая стратегия поиска оказывается весьма эффективной.
+Если и обратный шаг оказывается неудачным, можно сделать либо новый случайный шаг, либо уменьшить значение шага.
+ 
+
+</text>
+		</slide>
+		<slide index="40" title="" titleNormalized="" src="slide41.swf" size="6505" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="3" advanceOnClick="1" thumbnailAssetId="imgAsset42">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>г) Метод спуска с наказанием случайностью. Этот метод представляет собой аналог метода наискорейшего спуска с той разницей, что направление спуска выбирается случайным образам. После того, как шаги в выбранном случайном «удачном» направлении приводят в точку минимума функции цели по данному направлению, и следующий шаг оказывается неудачным, находится новое случайное направление, по которому спуск продолжается. 
+
+</text>
+		</slide>
+		<slide index="41" title="4. ЗАДАЧИ НА УСЛОВНЫЙ ЭКСТРЕМУМ С ОГРАНИЧЕНИЯМИ ТИПА НЕРАВЕНСТВ" titleNormalized="4. задачи на условный экстремум с ограничениями типа неравенств" src="slide42.swf" size="14849" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset43">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>4. ЗАДАЧИ НА УСЛОВНЫЙ ЭКСТРЕМУМ С ОГРАНИЧЕНИЯМИ ТИПА НЕРАВЕНСТВ
+Рассмотрим следующую задачу условной оптимизации:
+(12)
+при условиях	 	
+Х=(х1, х2, ..., хn). (13)
+Число ограничений типа неравенств может быть любым, т.е. меньше и больше числа независимых переменных: m&gt;n, m&lt;n, m=n.
+В данной задаче возможны два варианта: 1) оптимум лежит внутри допустимой области изменения независимых переменных Х, ограниченной неравенствами (13). В этом случае задачу можно решить любым методом безусловной оптимизации; 2) оптимум лежит на границе. Тогда используются специальные методы, рассматриваемые ниже.
+
+ а) Метод штрафов. На основе функций f0(Х) и fi(X), i = 1,… ,m строится функция R(X, K) следующего вида
+R(Х, К) = f0(Х) + S(К, f1(X), ..., fm(X)), 
+где К − параметр, называемый коэффициентом штрафа; S − функция штрафа за нарушения ограничений (штрафная функция).
+В зависимости от вида различают внутренние (барьерные) и внешние функции штрафа, а методы построения последовательности задач для минимизации функций R(X, K) − соответственно методами внутренней и внешней точек.
+</text>
+		</slide>
+		<slide index="42" title="" titleNormalized="" src="slide43.swf" size="25257" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="imgAsset44">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>В обоих методах решается последовательность задач безусловной минимизации функций R(X, Ki), i=0, 1, 2,..., локальные минимумы которых X*(Кi) при Кi стремятся к точке X*, являющейся решением исходной задачи.
+В методах внутренней точки функция штрафа строится таким образом, чтобы обеспечивалось приближение к решению Х* внутри допустимой области. В этом случае функция штрафа должна резко возрастать при приближении к границе допустимой области изнутри, тем самым препятствуя нарушению ограничений. На границе области функция штрафа либо не существует, либо имеет разрыв. Примерами внутренних функций штрафа являются следующие
+(14)
+
+(15)
+
+В методах внешней точки функция штрафа резко возрастает при выходе за границы допустимой области с тем, чтобы предотвратить блуждание точек слишком далеко от нее. Примером внешней функции является квадратичная функция штрафа вида
+
+(16)
+Для методов внутренней точки важно, чтобы начальная точка X0 и точки X1, получаемые в процессе последующих вычислений, принадлежали допустимой области. Это вытекает из следующих соображений. Функция штрафа (14) не определена вне допустимой области. 
+При использовании функции (15), по мере приближения точек Х1 к границе внутри допустимой области, функция , а по мере приближения к границе снаружи допустимой области .
+На границе области функция R(X, K) не существует.</text>
+		</slide>
+		<slide index="43" title="" titleNormalized="" src="slide44.swf" size="112295" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="imgAsset45">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Следовательно, если локальный поиск осуществлять вдоль прямой, соединяющей две точки, одна из которых лежит внутри, а другая вне допустимой области ограничений, то минимум будет найден вне допустимой области и будет невозможно вновь войти в область ограничений. 
+ Пусть задана некоторая начальная точка Х0, не принадлежащая допустимой области, т.е. в этой точке не выполняется хотя бы одно из ограничений fi(X)&gt;0, i = l,..., m. Для «перемещения» точки Х0 в допустимую область воспользуемся следующей схемой (рис. 24). Составим вспомогательную функцию φ(X), имеющую вид
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Рис. 24. К «перемещению» начальной точки в допустимую область
+
+В том случае, если точка X находится вне допустимой области, то φ(X)&lt;0, в противном случае φ(X)=0. 
+
+</text>
+		</slide>
+		<slide index="44" title="" titleNormalized="" src="slide45.swf" size="16492" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="imgAsset46">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>«Перемещение» точки X0 в допустимую область выполняется по направлению градиента функции φ(X) в соответствии с алгоритмом 
+
+
+где h − коэффициент, влияющий на величину шага по направлению. 
+Критерием «попадания» точки Xi+1 в допустимую область является выполнение условий
+f j(Xi+1 )&gt;0, j=1, ... , m.
+Найденная точка Хi+1 принимается за Х0.
+Алгоритм решения задачи (12) с использованием функций штрафа вида (14) или (15) можно представить в виде следующей последовательности шагов.
+1. Выбирается начальная точка Х0. Если она не принадлежит допустимой области, выполняется ее «перемещение» в эту область в соответствии с описанным выше алгоритмом. Точка Х0 принимается за точку минимума функции R(X, K) и обозначается как Х0 .Через i обозначается номер решаемой безусловной задачи и полагается i=l.
+2. Выбирается начальное значение K=Ki.
+3. Используя какой-либо метод безусловной минимизации, определяется точка Xi, являющаяся минимумом функции R(X, Ki). При использовании методов с поиском точки минимума вдоль направления, следует очень осторожно подходить к локализации отрезка, содер­жащего эту точку.
+4. Проверяется критерий окончания решения задачи
+
+
+
+Если условие выполняется, то осуществляется переход к шагу 6, в противном случае − к шагу 5.
+5. Положим i = i+1, Кi = Кi-1С. В качестве начальной точки 
+поиска минимума функции R(X, Ki) принимается точка Х*i-1, и выполняется переход к шагу 3.
+
+</text>
+		</slide>
+		<slide index="45" title="" titleNormalized="" src="slide46.swf" size="14797" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="imgAsset47">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>6. За результат решения задачи Х* принимается точка и процесс поиска заканчивается.
+В качестве начального значения К1, выбирается К1 =1. В качестве значения С выбирается С=10.
+Алгоритм решения задачи (12) с использованием функции штрафа вида (16) аналогичен предыдущему с той лишь разницей, что допускается выбор в качестве начального приближения точки, не требующей проверки на принадлежность допустимой области, т.е. точка Х0 может лежать как внутри, так и вне допустимой области.
+При использовании внешней функции штрафа вдоль границы как бы возникает «овраг», один склон которого образован функцией f0(X), а другой – функцией S3(X, K). В процессе поиска может использоваться «овражный» метод.
+ 
+б) Метод прямого поиска с возвратом. Основная идея этого метода состоит в том, что оптимум ищется с применением любого метода безусловного спуска до тех пор, пока некоторые из неравенств не окажутся нарушенными. Тогда спуск прекращается и осуществляется возврат в допустимую область по направлению антиградиентов к тем ограничениям, которые оказались нарушенными (рис. 25).
+Шаг в сторону исправления нарушенных ограничений производится по формуле
+
+
+где х – точка нарушения ограничений; – градиент функции fi(X) , для которой нарушено ограничение; h – шаг в направлении исправления ограничений. 
+
+
+</text>
+		</slide>
+		<slide index="46" title="" titleNormalized="" src="slide47.swf" size="508848" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="imgAsset48">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>
+
+
+
+
+
+
+
+
+
+
+Рис. 25. Метод прямого поиска с возвратом
+На рисунке 26 показано определение направления «отскока» при одновременном нарушении двух ограничений.
+
+
+
+
+
+
+
+
+
+
+
+Рис. 26. Направление «отскока» при нарушении двух ограничений</text>
+		</slide>
+		<slide index="47" title="" titleNormalized="" src="slide48.swf" size="528639" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="imgAsset49">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Недостатком рассмотренного метода является сравнительно небольшая скорость поиска при движении вдоль гиперповерхности ограничений. В особенности это проявляется в тех случаях, когда искомый оптимум расположен на границе области Х. Процесс поиска вблизи от оптимума при этом существенно замедляется (рис. 27). 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Рис. 27. Замедление поиска вблизи оптимума
+
+в) Метод проектирования вектора-градиента. Процесс поиска при движении вдоль гиперповерхности, ограничивающей допустимую область Х, можно значительно ускорить с использованием метода проектирования вектора-градиента.</text>
+		</slide>
+		<slide index="48" title="" titleNormalized="" src="slide49.swf" size="423162" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="imgAsset50">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Стратегия поиска иллюстрируется на рис. 28.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Рис. 28. Метод проектирования вектора-градиента
+
+г) Методы случайного поиска. В случае применения методов случайного поиска нет необходимости предусматривать специальную стратегию при наличии ограничений. Достаточно считать, что если очередной случайный шаг приводит к нарушению ограничений, то этот шаг следует отнести к категории неудачных и далее руководствоваться обычной стратегией случайного поиска.
+ 
+д) Метод сканирования дает однозначный результат при любом положении экстремума – как внутри области, так и на ее границе, а также при любых особенностях целевой функции (локальные минимумы, овраги).</text>
+		</slide>
+		<slide index="49" title="5. ЗАДАЧИ НА УСЛОВНЫЙ ЭКСТРЕМУМ С ОГРАНИЧЕНИЯМИ ТИПА РАВЕНСТВ" titleNormalized="5. задачи на условный экстремум с ограничениями типа равенств" src="slide50.swf" size="25445" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset51">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>5. ЗАДАЧИ НА УСЛОВНЫЙ ЭКСТРЕМУМ С ОГРАНИЧЕНИЯМИ ТИПА РАВЕНСТВ
+Постановка задачи: найти при которых
+ (17)
+при условиях 
+ 		
+
+Число ограничений типа равенств всегда меньше количества независимых переменных: m&lt;n.
+
+5.1. Аналитические методы
+
+а) Метод исключения. Из системы m уравнений (17) можно выразить m независимых переменных хi как функции остальных n–m переменных. В результате целевая функция f0 будет зависеть только от n–m переменных, не связанных дополнительными условиями. Таким образом, устраняя ограничивающие условия (17), удается и уменьшить размерность исходной оптимальной задачи.
+Метод исключения не может быть применен, если система алгебраических уравнений трансцендентна, т.е. невозможно выразить одни переменные через другие. Пример для функции двух переменных:
+найти при которых при условии
+
+
+В этом случае используют другие методы.</text>
+		</slide>
+		<slide index="50" title="5.2. Численные методы" titleNormalized="5.2. численные методы" src="slide51.swf" size="29059" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="imgAsset52">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>б) Метод неопределенных множителей Лагранжа. Введем вспомогательную функцию Лагранжа следующего вида
+
+
+где λi, i = 1, 2, … , m – множители Лагранжа.
+Для вспомогательной функции Лагранжа решается задача безусловной оптимизации. Используем необходимое условие экстремума для функции Ф
+
+
+
+
+Добавим уравнения (17)
+
+
+Получили систему из n+m уравнений, в которых n неизвестных xi и m неизвестных λi; таким образом, система замкнута.
+Отметим, что метод множителей Лагранжа позволяет найти лишь необходимые условия существования условного экстремума для непрерывных функций, имеющих к тому же непрерывные производные. Поэтому требуется проверять еще и достаточные условия экстремума функции Лагранжа Ф.
+Кроме того, в реальных практических случаях аналитическое решение системы из n+m уравнений найти удается далеко не всегда, поэтому используют численные методы нелинейного программирования.
+ 
+5.2. Численные методы
+
+В начале возникает задача выбора начальной точки поиска, удовлетворяющей системе ограничений. Поскольку всегда m&lt;n, при определении начальной точки спуска значения n–m независимых переменных можно задавать произвольно.</text>
+		</slide>
+		<slide index="51" title="" titleNormalized="" src="slide52.swf" size="168404" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="2" advanceOnClick="1" thumbnailAssetId="imgAsset53">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Тогда значения остальных m переменных следует вычислить решением системы m уравнений
+(18)
+Возможно, что при произвольном задании значений n–m переменных нельзя получить решение системы (18). Тогда можно продолжить поиск решения, фиксируя при этом другую совокупность значений n−m переменных.
+Проиллюстрируем на примере функции двух переменных (рис. 29).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Рис. 29. Условие типа равенства
+
+Задается произвольно , после чего из уравнения
+находим – начальную точку поиска.</text>
+		</slide>
+		<slide index="52" title="" titleNormalized="" src="slide53.swf" size="715104" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="2" advanceOnClick="1" thumbnailAssetId="imgAsset54">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Далее необходимо найти точку х*, при которой имеет минимум при выполнении ограничения.
+ 
+а) Метод прямого поиска с возвратом. Ограничения типа равенств преобразуются к виду
+(19)
+
+где δ – некоторая заранее заданная величина.
+В этом случае из точки начального приближения осуществляется спуск любым методом вплоть до нарушения условия (19), после чего производится возврат на ограничения (17) по нормали (рис. 30).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Рис. 30. Прямой поиск с возвратом</text>
+		</slide>
+		<slide index="53" title="" titleNormalized="" src="slide54.swf" size="17372" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="2" advanceOnClick="1" thumbnailAssetId="imgAsset55">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Поиск прекращается, если расстояние между точками, лежащими на ограничениях, и которые происходит возврат после двух последующих нарушений условия (19) не превышает заданной погрешности.
+ 
+б) Метод обобщенного критерия (метод «штрафов»). Вводится вспомогательная функция вида
+
+
+где α – положительное число, величина которого должна быть достаточно большой.
+Далее решается задача безусловной оптимизации для функции R. При этом спуск всегда будет направлен в сторону ограничения. Лишь в ε-окрестности от ограничения существенную роль в определении направления движения к оптимуму начинает играть градиент исходной функции 
+Обратим внимание, что вспомогательная функция R имеет «овраг», расположенный вдоль ограничений, так как при 
+удалении от ограничений функция и, следовательно, 
+функция R резко возрастают. Поэтому с успехом можно использовать метод «оврагов».
+Для выбора значения величины штрафа α требуется проводить численные эксперименты, поскольку при большом α будет медленная сходимость, а при малом α – большая погрешность определения экстремума.
+</text>
+		</slide>
+		<slide index="54" title="6. ОБЩАЯ ЗАДАЧА МАТЕМАТИЧЕСКОГО ПРОГРАММИРОВАНИЯ" titleNormalized="6. общая задача математического программирования" src="slide55.swf" size="25362" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset56">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>6. ОБЩАЯ ЗАДАЧА МАТЕМАТИЧЕСКОГО ПРОГРАММИРОВАНИЯ
+Постановка задачи: найти , при которых
+
+при условиях
+(20)
+(21)
+
+Для решения задачи прежде всего ищется точка начального приближения х0, удовлетворяющая всем условиям (20), (21).
+Далее строится комбинированная внутренне внешняя функция штрафа вида:
+
+
+
+В данном случае для всех ограничений выбран один и тот же штраф К.
+Экстремум функции R ищется, как правило, «овражным» методом.
+
+</text>
+		</slide>
+		<slide index="55" title="7. ЦЕЛОЧИСЛЕННОЕ ПРОГРАММИРОВАНИЕ" titleNormalized="7. целочисленное программирование" src="slide56.swf" size="16646" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset57">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>7. ЦЕЛОЧИСЛЕННОЕ ПРОГРАММИРОВАНИЕ
+Постановка задачи.
+Найти , при которых
+
+
+при условиях
+
+
+Дополнительные условия:
+а) хi – целые, i=1, 2, …, q, q&lt;n – задача частично целочисленного программирования;
+б) хi – целые, i=1, 2, …, n – задача полностью целочисленного программирования;
+в) хi – целые, i=1, 2, …, n и могут принимать только значения 0 и 1 – задача бивалентного программирования.
+Заметим, что целевая функция может принимать любые (не целые) значения.
+В общем случае поставленную задачу нельзя решить обычными методами, отменив условия (а) – (в), с последующим округлением компонент найденного решения до ближайших целых чисел.
+
+
+</text>
+		</slide>
+		<slide index="56" title="7.1. Методы решения задач целочисленного программирования" titleNormalized="7.1. методы решения задач целочисленного программирования" src="slide57.swf" size="15835" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="imgAsset58">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>7.1. Методы решения задач целочисленного программирования 
+а) Полный перебор. Метод может быть использован, когда ограничения образуют замкнутую область и, следовательно, множество допустимых значений варьируемых переменных конечно.
+Преимущества метода: простота реализации; точное решение задачи.
+Недостаток: большой объем вычислений.
+Пример: задача о рюкзаке. Необходимо выбрать, какие предметы взять с собой (положить в рюкзак). Каждый предмет имеет свой вес и свою ценность. Требуется, чтобы общий вес рюкзака с выбранными предметами не превышал некоторой заданной величины, а их общая ценность была максимальной.
+Введем обозначения: аj – вес одного предмета j-го типа; сj – его ценность; хj – число выбранных предметов j-го типа (которые попали в рюкзак); b – заданная величина, ограничивающая вес. 
+Тогда математическая постановка задачи примет вид: найти
+ ; j = 1, 2, …, n, при которых 
+
+
+
+при ограничениях
+
+
+где xj≥0, xj – целые, j = 1, 2, …, n.
+Геометрическую иллюстрацию приведем для n=2 (рис. 31).
+Согласно методу полного перебора рассчитываются значения R при всех возможных значениях х1, х2, входящих в область допустимых значений, и выбирается точка, где критерий R максимален.
+
+</text>
+		</slide>
+		<slide index="57" title="" titleNormalized="" src="slide58.swf" size="24254" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="2" advanceOnClick="1" thumbnailAssetId="imgAsset59">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Рис. 31. Иллюстрация задачи о рюкзаке
+
+б) Метод ветвей и границ. Основная идея метода заключается в замене полного перебора множества вариантов решения сокращенным. Полного перебора удается избежать за счет отбрасывания неперспективных множеств вариантов, т.е. таких, которые заведомо не могут содержать искомого оптимального решения задачи. Эта идея реализуется путем последовательного разбиения всего множества допустимых решений задачи на подмножества и построения оценок, позволяющих сделать обоснованный вывод о том, какие из полученных подмножеств не содержат допустимых решений, а какие – оптимальных. Исключение из дальнейшего рассмотрения таких бесперспективных подмножеств дает возможность сокращать перебор вариантов решения задачи.
+</text>
+		</slide>
+		<slide index="58" title="" titleNormalized="" src="slide59.swf" size="122380" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="2" advanceOnClick="1" thumbnailAssetId="imgAsset60">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Пример. Пусть необходимо найти путь от точки А до точки В, имеющий наименьшее расстояние (рис. 32).
+Пусть в качестве начального приближения выбран путь 1-2-7-8, критерий (расстояние) для которого R0=S12+S27+S78. Будем далее рассматривать вариант пути 1-6-2-… . Если R1=S16+S26&gt;Ro, то все варианты, начинающиеся таким образом (в нашем случае это 2-7-8, 2-3-4-8, 2-3-7-8, 2-3-8, 2-11-12-8 и т.д.) отбрасываются как бесперспективные.
+
+
+
+
+
+
+
+
+
+
+
+
+Рис. 32. Иллюстрация метода ветвей и границ
+
+в) Алгоритм Гомори. Исходная задача решается обычными методами без учета целочисленности. Если решение, полученное таким образом, удовлетворяет условию целочисленности, то оно и является оптимальным. Однако, если оптимальное решение не является допустимым (условие целочисленности нарушено), то формулируется новая задача путем добавления новых ограничений. Новое ограничение выбирается так, что множество допустимых решений новой задачи не включает оптимальное решение, полученное на предыдущем этапе, но включает все допустимые решения задачи. Затем решается новая задача и т.д. Дополнительные ограничения называются отсечениями. 
+
+
+
+
+
+
+
+</text>
+		</slide>
+		<slide index="59" title="" titleNormalized="" src="slide60.swf" size="9980" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="2" advanceOnClick="1" thumbnailAssetId="imgAsset61">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Алгоритм Гомори дает такой метод выбора отсечений, что процесс отсекания приводит к оптимальному решению задачи целочисленного программирования за конечное число шагов.
+
+г) Методы случайного поиска. Согласно методам случайного поиска, точки из допустимого дискретного множества выбираются случайным образом. 
+Алгоритм случайного поиска выглядит следующим образом. По каждой координате хi определяется значение ximin и ximax и вычисляются значения шага hi=ximax – ximin. Генератором случайных чисел формируются n случайных чисел zi, i=1, 2, … , n (0≤zi≤1). Получаем точку X0 в n-мерном пространстве с координатами: 
+= {zi∙hi}; i = 1, 2, …, n, где {} – операция выделения целой части.
+Проверяем, удовлетворяет ли точка Х0 ограничениям. Если да, то вычисляем в этой точке целевую функцию и запоминаем ее значение. Так продолжается заранее заданное количество раз m, после чего из m значений целевой функции выбирается минимальное. Это и есть приближенное решение задачи.
+</text>
+		</slide>
+		<slide index="60" title="8. ЛИНЕЙНОЕ ПРОГРАММИРОВАНИЕ" titleNormalized="8. линейное программирование" src="slide61.swf" size="27101" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset62">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>8. ЛИНЕЙНОЕ ПРОГРАММИРОВАНИЕ
+Существует класс оптимизационных задач, в которых критерий оптимальности зависит линейно от варьируемых переменных. При этом на варьируемые переменные могут быть наложены некоторые ограничения в виде линейных равенств и неравенств. Такие задачи относятся к разделу математики – линейному программированию.
+Математическая постановка задачи: найти значения , при которых 
+(22)
+
+где Сi, i = 1, 2, …, n – заданные постоянные коэффициенты, при ограничениях
+(23)
+
+(24)
+
+ (25)
+
+(26)
+
+Условие (26) – не обязательное, однако в реальных задачах хi имеют четкий физический смысл – количество продукции, цена, и т.д., которые не могут быть отрицательными.
+Количество ограничений типа равенств (25) не должно превышать число независимых переменных n. Количество ограничений типа неравенств (23) и (24) может быть любым.</text>
+		</slide>
+		<slide index="61" title="" titleNormalized="" src="slide62.swf" size="27044" advanceOnTime="0" framesCount="109" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="imgAsset63">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="108" playTime="4.5000000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Геометрическая иллюстрация для функции двух переменных показана на рис. 33, где R=c1x1+ c2x2; 1 - 4 – ограничения.
+
+
+
+
+
+
+
+
+Рис. 33. Геометрическая иллюстрация задачи линейного программирования
+
+ В данном примере видно, что максимальное значение критерия R лежит в точке пересечения ограничений 3 и 4.
+Возможен также вариант, когда решение задачи удовлетворяет бесконечный набор значений независимых переменных. Геометрически это соответствует варианту, когда одна из границ параллельна линии, определяемой выражением критерия R (рис. 34).
+
+
+
+
+
+
+
+
+Рис. 34. Случай, когда оптимальным решением является любая точка отрезка [а, b]
+R
+R*
+.
+R
+a
+.
+b
+.</text>
+		</slide>
+		<slide index="62" title="" titleNormalized="" src="slide63.swf" size="23000" advanceOnTime="0" framesCount="109" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="imgAsset64">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="108" playTime="4.5000000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Система ограничений в некоторых случаях может определять незамкнутую область. В этом случае максимальное значение критерия может достигаться как при конечных, так и бесконечных значениях варьируемых переменных (рис. 35, 36).
+
+
+
+
+
+
+
+
+
+Рис. 35. Пример незамкнутой области с конечным решением
+
+
+
+
+
+
+
+
+
+
+Рис. 36. Пример незамкнутой области с неограниченным значением критерия оптимальности
+
+В многомерном случае решение будет лежать либо в одной из вершин, либо на грани (гиперплоскости).
+
+
+R
+R</text>
+		</slide>
+		<slide index="63" title="" titleNormalized="" src="slide64.swf" size="25035" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="imgAsset65">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Пример 1: необходимо распределить заданное количество сырья между различными производствами так, чтобы общая стоимость получаемой продукции заданного ассортимента была максимальна.
+Пример 2: Транспортная задача: необходимо организовать доставку заданного количества товаров из различных складов к нескольким пунктам назначения так, чтобы затраты на перевозку были минимальны. Математически эта задача будет ставиться следующим образом. Пусть имеется 2 склада. На каждом складе имеется определенное количество продукции: а1 – на складе 1, а2 – на складе 2. Имеется 3 магазина, в которых потребность продукции, соответственно, b1, b2, b3. Стоимость перевозки с i-го склада в j-й магазин равна сij.
+Необходимо найти количество хij продукции, перевозимой с i-го склада в j-тый магазин (i = 1, 2; j = 1, 2, 3), чтобы суммарные затраты на перевозку были минимальными:
+
+
+при ограничениях:
+− количество доставленной продукции в j-й магазин равно его потребности:
+
+
+− количество отправленной продукции с i-го склада меньше или равно наличию продукции на складе:
+
+
+− количество перевезенной продукции не может быть отрицательным:
+
+
+− желательное ограничение (если оно отсутствует, задача может быть решена введением фиктивных переменных):
+
+
+</text>
+		</slide>
+		<slide index="64" title="8.1. Методы решения задачи линейного программирования" titleNormalized="8.1. методы решения задачи линейного программирования" src="slide65.swf" size="17003" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="imgAsset66">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>8.1. Методы решения задачи линейного программирования
+а) Метод полного перебора. Согласно данному методу требуется найти все вершины многогранника, для чего решить все возможные комбинации по n уравнений из общего числа m+n уравнений системы (23)−(26). При больших значениях n и m число таких комбинаций может быть настолько велико, что поиск решения потребует значительного времени расчета.
+
+б) Симплексный метод. Идея метода заключается в поиске по одному известному решению (любому) другого, при котором значение критерия оптимальности станет больше. 
+Предварительно все ограничения типа неравенств приводятся к равенствам введением m новых, дополнительных, переменных. Для этого в каждом соотношении (23) прибавим к левой части дополнительную положительную переменную хn+j, которая превращает неравенство в равенство
+
+
+
+В каждом соотношении (24) отнимем от левой части дополнительную положительную переменную
+
+</text>
+		</slide>
+		<slide index="65" title="" titleNormalized="" src="slide66.swf" size="41033" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="2" advanceOnClick="1" thumbnailAssetId="imgAsset67">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Тогда система ограничений (23)−(25) получит вид
+(27)
+
+Любое решение системы уравнений (27), состоящее из набора n+m неотрицательных значений переменных хj (j=1,2…,n+m) называется допустимым.
+Допустимое решение, в котором ровно n составляющих отличны от нуля, называется базисным или планом.
+Базисное решение определяет координаты вершины многогранника условий оптимальной задачи, в то время как допустимое решение может определять координаты любой другой точки этого многогранника, включая и его внутренние точки.
+Оптимальное решение всегда должно быть базисным, поэтому его поиск заключается в переборе только базисных решений.
+Рассмотрим алгоритм решения задачи линейного программирования симплекс-методом.
+
+Необходимо найти значения , при которых
+f0 = C1x1+C2x2+ … + Cnxn → min.
+
+при ограничениях:
+
+n1 штук 						 (28)
+
+
+
+n2 штук 						 (29)
+
+
+
+n2 штук 						 (30)
+
+</text>
+		</slide>
+		<slide index="66" title="" titleNormalized="" src="slide67.swf" size="25285" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="2" advanceOnClick="1" thumbnailAssetId="imgAsset68">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Алгоритм симплекс-метода состоит из следующих этапов. Предварительно преобразуем ограничения.
+Добавляем к ограничениям (30) в левую часть дополнительные переменные хn+1…,хn+n3 с коэффициентом «−1».
+Добавляем к ограничениям (28) в левую часть дополнительные переменные хn+n3+1,…,хn+n3+n1 с коэффициентом «+1».
+Первые два этапа нужны для преобразования неравенств в равенства. 
+Добавляем к ограничениям (29) в левую часть вспомогательные переменные хn+n3+ n1+1,…,хn+n3+n1+n2 c коэффициентом «+1».
+Добавляем к ограничениям (30) в левую часть вспомогательные переменные хn+n3+n1+n2+1,…,хn+n3+n1+n2+n3 с коэффициентом «+1».
+Последние два этапа нужны для формирования единичной диагональной матрицы.
+Начальное допустимое базисное решение имеет вид
+хi = 0; i = 1, 2,…, n+n3 − небазисные переменные;
+хi = bi-n-n3; i = n+n3+1,…, n+n3+n2+n1 − базисные переменные.
+ 
+Введем искусственную целевую функцию W, которая является суммой небазисных переменных
+
+
+(31)
+
+или
+
+
+Далее необходимо найти минимум вспомогательной функции W, для чего строятся симплекс-таблицы и делается необходимое число итераций. Полученное решение является исходным базовым для исходной задачи.
+</text>
+		</slide>
+		<slide index="67" title="" titleNormalized="" src="slide68.swf" size="25427" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="2" advanceOnClick="1" thumbnailAssetId="imgAsset69">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Приведем пример работы алгоритма с использованием симплекс-таблицы для n=3, n1=1, n2=1, n3=2.
+Необходимо найти значения ,при которых
+f0 = C1x1+C2x2+ C3x3 → min,
+при ограничениях:
+a11x1 + a12x2 + a13x3 ≤ b1, 
+h11x1 + h12x2 + h13x3 = b2, 
+h21x1 + h22x2 + h23x3 ≥ b3, 
+h31x1 + h32x2 + h33x3 ≥ b4.
+После преобразований 1) – 4) получаем:
+a11x1 + a12x2 + a13x3 + х6 = b1, 
+h11x1 + h12x2 + h13x3 + х7 = b2, 
+h21x1 + h22x2 + h23x3 – х4 + х8 = b3, 
+h31x1 + h32x2 + h33x3 – х5 + х9 = b4.
+Построим симплекс-таблицу первой итерации.
+
+Итерация 1
+
+
+
+
+
+
+
+
+
+
+ 	 ↓ ↓ ↓ ↓ ↓ ↓
+ 	W0 - d1 - d2 - d3 - d4 - d5
+Базис
+Значения
+Коэффициенты при:
+Коэффициенты при:
+Коэффициенты при:
+Коэффициенты при:
+Коэффициенты при:
+Коэффициенты при:
+Коэффициенты при:
+Коэффициенты при:
+Коэффициенты при:
+Базис
+Значения
+х1
+х2
+х3
+х4
+х5
+х6
+х7
+х8
+х9
+х6
+b1
+a11
+a12
+a13
+0
+0
+1
+0
+0
+0
+х7
+b2
+h11
+h12
+h13
+0
+0
+0
+1
+0
+0
+х8
+b3
+h21
+h22
+h23
+- 1
+0
+0
+0
+1
+0
+х9
+b4
+h31
+h32
+h33
+0
+- 1
+0
+0
+0
+1
+- f0
+0
+C1
+C2
+C3
+0
+0
+0
+0
+0
+0
+-W
+1
+1
+0
+0
+0
+0</text>
+		</slide>
+		<slide index="68" title="" titleNormalized="" src="slide69.swf" size="11303" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="2" advanceOnClick="1" thumbnailAssetId="imgAsset70">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Если все коэффициенты вспомогательной функции W положительные, то функция W не может быть уменьшена при увеличении хi от 0 в положительную сторону. Таким образом, минимум найден.
+Если все коэффициенты отрицательные, то ищется наименьший среди них и начинаем с ним работать, так как если это di, то увеличение хi от 0 в положительную сторону приведет к самому сильному уменьшению W. Поэтому хi включается в базисные переменные. 
+Пусть в рассматриваемом примере самым маленьким отрицательным коэффициентом в функции W будет d2, тогда в базисные будем включать х2.
+Найдем, до какого максимального значения может измениться х2 из выражения
+х2maх=min {bi/hi-1,2}; i = n1+1, 2, ..., n1+n2+n3, 
+h – должно быть больше 0.
+В нашем примере 
+х2maх=min {b2/h12, b3/h22, b4/h32}.
+Пусть минимум достигается при b4/h32. Тогда базисная переменная этой строки (в примере это х9) исключается из базисных, на ее место ставится х2.
+Для построения новой симплекс-таблицы (итерация 2) проделаем следующие преобразования.
+В строке новой базисной переменной (х2) поделим все коэффициенты на h32. Во всех остальных строках из каждого коэффициента вычитается значение коэффициента на пересечении данной строки и выбранного базового столбца (в нашем примере столбец при х2), умноженного на коэффициент новой базовой строки (опять х2), стоящий в том же столбце, что и исходный коэффициент (см. таблицу «Итерация 2»).</text>
+		</slide>
+		<slide index="69" title="" titleNormalized="" src="slide70.swf" size="19043" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="2" advanceOnClick="1" thumbnailAssetId="imgAsset71">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Итерация 2
+
+
+
+
+
+
+
+
+
+
+
+
+После решения вспомогательной задачи последняя симплекс-таблица используется как начальная для решения исходной задачи, т.е. работаем уже с функцией f0, а не W.
+	
+
+Базис
+Значения
+Коэффициенты при:
+Коэффициенты при:
+Коэффициенты при:
+Коэффициенты при:
+Коэффициенты при:
+Коэффициенты при:
+Коэффициенты при:
+Коэффициенты при:
+Коэффициенты при:
+Базис
+Значения
+х1
+х2
+х3
+х4
+х5
+х6
+х7
+х8
+х9
+х6
+ b1-а12
+ a11-a12
+0
+ a13-a12
+х7
+ b2-h12
+ h11-h12
+0
+ h13-h12
+х8
+ b3- h22
+ h21-h22
+0
+ h23-h22
+-1-h22
+-h22
+х2
+1
+0
+- 1
+0
+0
+0
+- f0
+ -(0-C2 )
+ -(C1-C2 )
+0
+-W
+ -(W0-d2 ) 
+ -(d1-d2 )
+0</text>
+		</slide>
+		<slide index="70" title="9. ДИНАМИЧЕСКОЕ ПРОГРАММИРОВАНИЕ. ПРИНЦИП ОПТИМАЛЬНОСТИ БЕЛЛМАНА" titleNormalized="9. динамическое программирование. принцип оптимальности беллмана" src="slide71.swf" size="20612" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset72">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>9. ДИНАМИЧЕСКОЕ ПРОГРАММИРОВАНИЕ. ПРИНЦИП ОПТИМАЛЬНОСТИ БЕЛЛМАНА
+Рассмотрим многостадийные процессы, которые характеризуются следующими особенностями:
+− процесс дискретно распределен во времени или пространстве;
+− отдельные стадии процесса обладают относительной независимостью, т.е. вектор выходных координат любой стадии зависит только от вектора входных координат на эту стадию и управления на ней;
+− критерий оптимальности (целевая функция) всего процесса является суммой критериев оптимальности каждой стадии.
+Схема многостадийного процесса приведена на рис. 37. На каждой i-й стадии (i = 1, 2, …, n), xi-1 – входная величина; xi – выходная величина; ui – управление.
+
+
+
+
+Рис. 37. Многостадийный процесс
+
+ Пусть известна математическая модель каждой i-й стадии, позволяющая рассчитать выходную координату по значениям входной координаты и управления
+
+</text>
+		</slide>
+		<slide index="71" title="" titleNormalized="" src="slide72.swf" size="23324" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="imgAsset73">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Постановка задачи оптимизации:
+Найти управления на каждой стадии при которых 
+
+где U – допустимая область изменения управлений; ri – критерий оптимальности (целевая функция) i-й стадии; R – критерий оптимальности всего процесса.
+Ричард Беллман сформулировал принцип оптимальности для многостадийных процессов: оптимальная стратегия обладает таким свойством, что, каково бы ни было начальное состояние и начальное решение, последующие решения должны приниматься, исходя из оптимальной стратегии относительно состояния, получаемого в результате первого решения.
+Метод поиска оптимальных управлений, использующий принцип Беллмана, называется динамическим программированием.
+Основная идея динамического программирования заключается в том, что если какой-либо поток изменяется на каждой стадии процесса, то, если на последней стадии режим работы (независимо от режима работы на всех стадиях) не будет оптимальным по отношению к поступающему на нее потоку, не будет оптимальным и режим всего многостадийного процесса в целом.
+Применение метода динамического программирования состоит в определении такого режима работы стадии, который минимизирует (максимизирует) критерий на этой и всех последующих стадиях для любых возможных состояний поступающего на нее потока. Обычно рассмотрение начинается с последней стадии процесса. Оптимальный режим всего процесса определяется постадийно.
+Основным уравнением динамического программирования является функциональное уравнение вида
+</text>
+		</slide>
+		<slide index="72" title="" titleNormalized="" src="slide73.swf" size="18750" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="imgAsset74">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Здесь для определенности рассматривается максимизация целевой функции.
+Процедура применения принципа оптимальности для оптимизации n-стадийного процесса, очевидно, должна начинаться с последней стадии процесса, для которой не существует последующих стадий, могущих повлиять (согласно принципу оптимальности) на выбор управления un на этой стадии. После того, как оптимальное управление un найдено для всех возможных значений входа последней стадии, можно приступить к определению оптимального управления на предыдущей стадии и т.д.
+Решение задач методом динамического программирования проводится в два этапа.
+На первом этапе определяются оптимальные управления как функции входных параметров, при этом начало рассмотрения – последняя стадия процесса
+
+
+Предположим, что каким-либо методом найдено управление 
+ доставляющее максимум функции rn. Переходим ко второй стадии от конца, для которой оптимизируемая функция имеет вид
+
+
+На этой стадии ищется оптимальное значение управления un-1.
+Далее процедура повторяется до тех пор, пока не дойдем до первой стадии. 
+Второй этап решения представляет собой последовательный расчет оптимальных управлений от первой стадии к последней.</text>
+		</slide>
+		<slide index="73" title="" titleNormalized="" src="slide74.swf" size="17775" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="imgAsset75">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Если значение входной координаты х0 известно, оптимальное управление на первой стадии вычисляется по соотношению:
+
+Зная и математическую модель, описывающую первую стадию, можно определить выход первой стадии
+
+
+Теперь можно определить оптимальное управление на второй стадии:
+
+Вычисления продолжаются до тех пор, пока не получим значения оптимальных управлений на всех стадиях.
+Если значение входной координаты х0 неизвестно, оно ищется на последнем шаге первого этапа, т.е. находится не только но и 
+ максимизирующие R. Дальнейшая процедура – та же самая, что и для случая, когда х0 задано.
+Преимущество метода по сравнению с методом полного перебора – снижение количества вычислений. Поясним это на примере. Рассмотрим n-стадийный процесс, в котором на каждой i-й стадии управления ui представляют дискретные величины, принимающие k различных значений. Для каждого возможного решения, принимаемого на i-й стадии, имеется k возможных значений, принимаемых на (i-1)-й стадии, и т.д. Таким образом, чтобы найти оптимальное решение методом полного перебора, нужно проанализировать kn возможных путей решения. При использовании метода динамического программирования требуется проанализировать только k∙n комбинаций.
+К недостаткам метода динамического программирования следует отнести отсутствие информации о том, как выполнить оптимизацию на каждой стадии, а также сложность его применения в случае процессов с рециклами.
+</text>
+		</slide>
+		<slide index="74" title="9.1. Использование метода динамического программирования для задачи трассировки трубопроводов" titleNormalized="9.1. использование метода динамического программирования для задачи трассировки трубопроводов" src="slide75.swf" size="71654" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="1" advanceOnClick="1" thumbnailAssetId="imgAsset76">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>9.1. Использование метода динамического программирования для задачи трассировки трубопроводов
+Пусть расположение цехов предприятия иллюстрируется схемой, показанной на рис. 38.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Рис. 38. Схема расположения цехов предприятия
+
+Требуется соединить цеха трубопроводами так, чтобы каждый цех имел выход на конечную точку К напрямую или через другие цеха, при этом суммарные затраты на трубопроводы должны быть минимальными.
+
+</text>
+		</slide>
+		<slide index="75" title="" titleNormalized="" src="slide76.swf" size="60819" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="2" advanceOnClick="1" thumbnailAssetId="imgAsset77">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Затраты на прокладку трубопроводов между цехами обозначены цифрами над каждым возможным трубопроводом. Всего в данном примере число возможных труб равно 32. Проложив все 32 трубы, все цеха будут гарантировано связаны с конечной точкой, однако такое решение не будет оптимальным с точки зрения выбранного критерия.
+Применим принцип оптимальности. Для последнего ряда цехов в пункт К ведет один путь. Значит, выбор трассировки труб из каждого цеха последнего ряда приводит к единственной возможности (она и оптимальна). Соответствующие затраты обозначим цифрами внутри кружка на схеме рис. 38, а оптимальную трассировку – красной линией.
+В предпоследнем ряду для каждого цеха перебираем все трассировки. Находим ту из них, для которой сумма затрат на прокладку трубопроводов до последнего ряда и от последнего ряда цехов до пункта К будет минимальна. Так продолжается до точки «Н».
+В результате получается трассировка, показанная на рис. 39.
+
+
+
+
+
+
+
+
+
+
+Рис. 39. Оптимальная трассировка
+</text>
+		</slide>
+		<slide index="76" title="" titleNormalized="" src="slide77.swf" size="7376" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="2" advanceOnClick="1" thumbnailAssetId="imgAsset78">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Обратим внимание на тот факт, что если бы рассмотрение велось не от точки «К» к точке «Н», а наоборот, то на первом шаге была бы выбрана трасса, затраты на которую равны 1 (рис. 38). Такая стратегия, оптимальная на первом шаге, привела бы к неоптимальной глобальной стратегии («близорукая оптимизация» по Р. Беллману).
+Подобным методом может быть решена другая, более простая задача: найти вариант прокладки трубопроводов от одной заданной точки (например, «Н») до другой заданной точки (например, «К») через промежуточные точки, заданные на схеме, с минимальными затратами.</text>
+		</slide>
+		<slide index="77" title="ЗАКЛЮЧЕНИЕ" titleNormalized="заключение" src="slide78.swf" size="6531" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset79">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>ЗАКЛЮЧЕНИЕ
+ 
+В мультимедийном учебном пособии представлены методы конечномерной оптимизации, сопровождаемые иллюстрациями, которые показывают работу методов в их развитии. Это должно облегчать понимание алгоритмов. Для анализа качества усвоения материала приведены тесты. Рассмотрены методы нелинейного, линейного, динамического и целочисленного программирования для решения конечномерных задач оптимизации на безусловный и условный экстремум.
+</text>
+		</slide>
+		<slide index="78" title="ТРЕНИРОВОЧНЫЕ ЗАДАНИЯ" titleNormalized="тренировочные задания" src="slide79.swf" size="65176" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset80">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>ТРЕНИРОВОЧНЫЕ ЗАДАНИЯ
+
+Выберите вариант:
+
+Вариант №1
+
+Вариант №2
+
+Вариант №3
+
+Вариант №4
+
+</text>
+		</slide>
+		<quiz index="79" title="Тест №1" titleNormalized="тест №1" src="quiz1.swf" size="1034279" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="1" level="0" thumbnailAssetId="imgAsset81" embedded="0">
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<quizBranching allowQuizInterruption="1" allowViewNextSlides="atAnyTime">
+				<finishAction>
+					<passed>
+						<gotoNextSlide/>
+					</passed>
+					<failed>
+						<gotoNextSlide/>
+					</failed>
+				</finishAction>
+			</quizBranching>
+		</quiz>
+		<quiz index="80" title="Тест №2" titleNormalized="тест №2" src="quiz2.swf" size="1038454" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="1" level="0" thumbnailAssetId="imgAsset82" embedded="0">
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<quizBranching allowQuizInterruption="1" allowViewNextSlides="atAnyTime">
+				<finishAction>
+					<passed>
+						<gotoNextSlide/>
+					</passed>
+					<failed>
+						<gotoNextSlide/>
+					</failed>
+				</finishAction>
+			</quizBranching>
+		</quiz>
+		<quiz index="81" title="Тест №3" titleNormalized="тест №3" src="quiz3.swf" size="1124374" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="1" level="0" thumbnailAssetId="imgAsset83" embedded="0">
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<quizBranching allowQuizInterruption="1" allowViewNextSlides="atAnyTime">
+				<finishAction>
+					<passed>
+						<gotoNextSlide/>
+					</passed>
+					<failed>
+						<gotoNextSlide/>
+					</failed>
+				</finishAction>
+			</quizBranching>
+		</quiz>
+		<quiz index="82" title="Тест №4" titleNormalized="тест №4" src="quiz4.swf" size="1017430" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="1" level="0" thumbnailAssetId="imgAsset84" embedded="0">
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<quizBranching allowQuizInterruption="1" allowViewNextSlides="atAnyTime">
+				<finishAction>
+					<passed>
+						<gotoNextSlide/>
+					</passed>
+					<failed>
+						<gotoNextSlide/>
+					</failed>
+				</finishAction>
+			</quizBranching>
+		</quiz>
+		<interaction index="83" title="Глоссарий" titleNormalized="глоссарий" src="intr1.swf" size="338032" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" thumbnailAssetId="imgAsset85" embedded="0">
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+		</interaction>
+		<slide index="84" title="СПИСОК ЛИТЕРАТУРЫ" titleNormalized="список литературы" src="slide85.swf" size="11696" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset86">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>СПИСОК ЛИТЕРАТУРЫ
+1.​ Лесин, В. В. Основы методов оптимизации : учебное пособие : 3-е изд. исправл. / В. В. Лесин, Ю. П. Лисовец. – СПб. : Издательство «Лань». – 2011. – 352 с. Режим доступа : Издательство «Лань». Электронно-библиотечная система. http://e.lanbook.com.
+2.​ Литовка, Ю. В. Получение оптимальных проектных решений и их анализ с использованием математических моделей : Лабораторный практикум / Ю. В. Литовка – Тамбов : Изд-во ТГТУ, 2012. – 165 с. Режим доступа : Электронно-библиотечная система. http://tstu.ru.
+3.​  Гюнтер, Н. М. Курс вариационного исчисления : учебник : 2-е изд., стер. Н. М. Гюнтер. – СПб. : Издательство «Лань». – 2009. – 320 с. Режим доступа : Издательство «Лань». Электронно-библиотечная система. http://e.lanbook.com.
+4.​ Островский, Г. М. Оптимизация в химической технологии / Г. М. Островский, Ю. М. Волин, Н. Н. Зиятдинов. – Казань : Фен, 2005. – 394 с. Режим доступа : Библиотека ТГТУ.
+5.​ Холоднов, В. А. Математическое моделирование и оптимизация химико-технологических процессов : практ. руководство / В. А. Холоднов, В. П. Дьяконов, Е. Н. Иванова, Л. С. Кирьянова. – СПб. : Профессионал, 2003. – 480 с. Режим доступа : Библиотека ТГТУ.
+6.​  Измаилов, А. Ф. Численные методы оптимизации : учебное пособие / А. Ф. Измаилов, М. В. Солодов. - М.: ФИЗМАТЛИТ, 2003. – 304 с. Режим доступа : Библиотека ТГТУ.
+7.​ Дворецкий, С. И. Компьютерное моделирование и оптимизация технологических процессов и оборудования : учебное пособие / С. И. Дворецкий, А. Ф. Егоров, Д. С. Дворецкий; Тамб. гос. техн. унт. – Тамбов : ТГТУ, 2003. – 224 с. Режим доступа : Библиотека ТГТУ.
+8.​  Черноруцкий, И. Г. Методы оптимизации в теории управления: учебное пособие для вузов / И. Г. Черноруцкий. – СПб. : Питер, 2004. – 256 с. Режим доступа : Библиотека ТГТУ.
+9.​ Бояринов, А. И. Методы оптимизации в химической технологии / А. И. Бояринов, В. В. Кафаров. – М. : Химия, 1975. – 500 с. Режим доступа : Библиотека ТГТУ.</text>
+		</slide>
+		<slide index="85" title="Входные данные" titleNormalized="входные данные" src="slide86.swf" size="114885" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset87">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+		</slide>
+	</slides>
+</presentation>
